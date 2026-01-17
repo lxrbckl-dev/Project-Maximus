@@ -1,5 +1,5 @@
 # Project Maximus 2
-> Use a Raspberry Pi to capture and record the stream of one to many USB camera(s). Fall 2024.
+> Use a Raspberry Pi to capture and record the stream of many USB camera(s) and interact with relay devices in a mobile environment. Fall 2024.
 >
 > **`Shell`** **`Python`** `RPi.GPIO` `sys`
 
